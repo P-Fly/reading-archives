@@ -7,3 +7,5 @@
  - [Chapter_3 经典多码加密法](2025-02-08-Classical-and-Contemporary-Cryptology-Chapter-3.md)
 
  - [Chapter_4 经典多图加密法](2025-03-09-Classical-and-Contemporary-Cryptology-Chapter-4.md)
+
+ - [Chapter_5 经典多图加密法](2025-03-27-Classical-and-Contemporary-Cryptology-Chapter-5.md)
