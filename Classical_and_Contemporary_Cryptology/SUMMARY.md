@@ -8,4 +8,6 @@
 
  - [Chapter_4 经典多图加密法](2025-03-09-Classical-and-Contemporary-Cryptology-Chapter-4.md)
 
- - [Chapter_5 经典多图加密法](2025-03-27-Classical-and-Contemporary-Cryptology-Chapter-5.md)
+ - [Chapter_5 经典换位加密法](2025-03-27-Classical-and-Contemporary-Cryptology-Chapter-5.md)
+
+ - [Chapter_6 流加密法](2025-03-29-Classical-and-Contemporary-Cryptology-Chapter-6.md)
