@@ -11,3 +11,5 @@
  - [Chapter_5 经典换位加密法](2025-03-27-Classical-and-Contemporary-Cryptology-Chapter-5.md)
 
  - [Chapter_6 流加密法](2025-03-29-Classical-and-Contemporary-Cryptology-Chapter-6.md)
+
+ - [Chapter_7 块加密法](2025-04-10-Classical-and-Contemporary-Cryptology-Chapter-7.md)
