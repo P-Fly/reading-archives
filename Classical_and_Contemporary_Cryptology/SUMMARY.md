@@ -13,3 +13,9 @@
  - [Chapter_6 流加密法](2025-03-29-Classical-and-Contemporary-Cryptology-Chapter-6.md)
 
  - [Chapter_7 块加密法](2025-04-10-Classical-and-Contemporary-Cryptology-Chapter-7.md)
+
+ - [Chapter_8 ]()
+
+ - [Chapter_9 ]()
+
+ - [Chapter_10 量子密码学](2025-04-13-Classical-and-Contemporary-Cryptology-Chapter-10.md)
