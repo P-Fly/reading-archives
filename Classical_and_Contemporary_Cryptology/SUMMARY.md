@@ -14,7 +14,7 @@
 
  - [Chapter_7 块加密法](2025-04-10-Classical-and-Contemporary-Cryptology-Chapter-7.md)
 
- - [Chapter_8 ]()
+ - [Chapter_8 公钥加密法](2025-04-11-Classical-and-Contemporary-Cryptology-Chapter-8.md)
 
  - [Chapter_9 ]()
 
