@@ -14,4 +14,9 @@
 
 其算法原理是：根据数论，寻求两个大素数比较简单，而将它们的乘积进行因式分解却极其困难，因此可以将乘积公开作为加密密钥。
 
+## 总结
+
+ ![Chapter 8][2]
+
  [1]: ./images/public_key_encryption.jpg
+ [2]: ./images/chapter_8.jpg

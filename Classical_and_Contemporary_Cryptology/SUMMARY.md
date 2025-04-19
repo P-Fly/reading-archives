@@ -16,6 +16,6 @@
 
  - [Chapter_8 公钥加密法](2025-04-11-Classical-and-Contemporary-Cryptology-Chapter-8.md)
 
- - [Chapter_9 ]()
+ - [Chapter_9 密钥管理，数字签名，散列函数与证书](2025-04-12-Classical-and-Contemporary-Cryptology-Chapter-9.md)
 
  - [Chapter_10 量子密码学](2025-04-13-Classical-and-Contemporary-Cryptology-Chapter-10.md)
